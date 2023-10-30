@@ -1,0 +1,17 @@
+type,brand,price,ram,processor,internalStorage,supportsMicroUSB,includesChargerCube,is5G,diskType,diskSize,cpuSpeed,gpuSpeed
+smartphone,Apple,1000,8GB,A14,256GB,false,true,true,,,,
+laptop,Dell,800,16GB,,512GB,,,,SSD,3.5GHz,2.0GHz
+smartphone,Samsung,900,12GB,Exynos 2100,128GB,true,true,true,,,,
+laptop,HP,750,8GB,,1TB,,,,HDD,2.8GHz,1.5GHz
+smartphone,Google,850,6GB,Google Tensor,128GB,false,true,true,,,,
+laptop,Lenovo,700,16GB,,256GB,,,,SSD,3.0GHz,1.8GHz
+smartphone,Xiaomi,700,8GB,Dimensity 1200,256GB,true,true,true,,,,
+laptop,Asus,650,8GB,,512GB,,,,HDD,2.5GHz,1.2GHz
+smartphone,OnePlus,750,12GB,Snapdragon 888,128GB,false,true,true,,,,
+laptop,MacBook,1200,8GB,M1,256GB,,,,SSD,3.2GHz,2.2GHz
+smartphone,LG,650,6GB,Snapdragon 865,64GB,true,true,false,,,,
+laptop,Acer,600,4GB,,1TB,,,,HDD,2.0GHz,1.0GHz
+smartphone,Sony,800,8GB,Snapdragon 888,256GB,false,true,true,,,,
+laptop,Microsoft,950,8GB,,256GB,,,,SSD,2.9GHz,1.7GHz
+smartphone,Nokia,550,4GB,Mediatek Helio,128GB,true,true,false,,,,
+
